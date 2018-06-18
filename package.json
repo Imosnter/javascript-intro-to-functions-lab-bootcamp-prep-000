@@ -31,7 +31,11 @@
     "mocha-multi": "^0.9.0"
   },
   "dependencies": {
+<<<<<<< HEAD
     "babel-preset-env": "^1.7.0",
     "pug": "^2.0.3"
+=======
+    "babel-preset-env": "^1.7.0"
+>>>>>>> 6a33a657ae56ebf8987c5a2e77eca10f76c6105e
   }
 }
